@@ -1,0 +1,4 @@
+interface:
+  display_name: "遗愿清单"
+  short_description: "从历史对话理解经历与价值取向，校准并生成属于你的个人遗愿清单"
+  default_prompt: "使用 $bucket-list，根据你能访问的过往对话梳理我的经历、见识和愿望，帮我整理一份属于我的遗愿清单，并区分明确愿望、推测和探索建议。"
